@@ -19,6 +19,13 @@
 <img width="60%" src ="https://user-images.githubusercontent.com/49023743/121403373-ca85ab80-c995-11eb-921a-766b94be1cdb.PNG"/>
 
 + 땅속에서 적의 위치를 파악 할 수 있지만 정확한 지형은 파악하지 못합니다.
+
+<img width="60%" src ="https://user-images.githubusercontent.com/49023743/121403810-41bb3f80-c996-11eb-95ed-8888f82f0ebd.PNG"/>
+
+<img width="60%" src ="https://user-images.githubusercontent.com/49023743/121403813-43850300-c996-11eb-82b9-1761e143b3af.PNGG"/>
+
+
+
 + 기존에 존재하는 구덩이에서는 쿨타임 없이 사용가능합니다.
 + 풀숲에 숨는다면 추격을 피할 수 있습니다. 하지만 모든 고양이로부터는 도망칠 수 없습니다.
 + 토마토 , 도망다니는 작물을 섭취함으로써 생존시간을 높일 수 있습니다.
