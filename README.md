@@ -40,10 +40,13 @@
 ### 고양이
 + Range 추적
 
+<img width="80%" src ="https://user-images.githubusercontent.com/49023743/121404234-b7bfa680-c996-11eb-9de8-c311456213f4.mp4"/>
+
 
 + NavMesh 추적
 + Percetion을 사용하여 Sight를 사용하여 고양이의 시선 추적을 사용했습니다. 
 
+<img width="80%" src ="https://user-images.githubusercontent.com/49023743/121404225-b55d4c80-c996-11eb-89e7-8c2088b3b55b.mp4"/>
 
 
 ### Crop
