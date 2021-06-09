@@ -20,7 +20,7 @@
 ### 농부
 + NavMesh를 사용했습니다.
 + Environment Query System (EQS)를 사용하여 농부의 순찰 위치가 제일 높은 점수로 이동하게 됩니다.
-
+https://user-images.githubusercontent.com/49023743/121378909-8dfa8580-c97e-11eb-9430-6954e9b2081b.gif
 
 
 ### 고양이
