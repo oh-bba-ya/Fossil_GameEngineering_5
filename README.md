@@ -5,6 +5,8 @@
 과연 끝까지 살아 남을 수 있을것인가..!
 
 # 구글 드라이브
++ perforce_mole.egg 파일의 경우 프로젝트 파일입니다.
++ WindowNoEditor.zip 파일은 exe 실행 압축 파일 입니다.
 https://drive.google.com/drive/u/0/folders/1U8EebdHDE7wt7C25tr1o25eT7CCHUtDQ
 
 ## 게임 조작법
