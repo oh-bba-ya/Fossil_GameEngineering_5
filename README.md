@@ -21,6 +21,7 @@
 + NavMesh를 사용했습니다.
 + Environment Query System (EQS)를 사용하여 농부의 순찰 위치가 제일 높은 점수로 이동하게 됩니다.
 
+https://github.com/oh-bba-ya/Fossil_GameEngineering_5/issues/1#issue-916304490
 
 ### 고양이
 + Range 추적
