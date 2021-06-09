@@ -54,4 +54,6 @@
 + Perception Sight를 사용하여 일정 영역에 들어오게 된다면 Navmesh 속 랜덤 좌표로 움직이게 됩니다.
 + <img width="70%" src ="https://user-images.githubusercontent.com/49023743/121379933-740d7280-c97f-11eb-9424-3ab3bddc1d4b.gif"/>
 
+<img width="70%" src ="https://user-images.githubusercontent.com/49023743/121404275-c3ab6880-c996-11eb-8440-eba55a3603c4.mp4"/>
+
 
